@@ -1,3 +1,8 @@
+/*
+* s3821179 sang yeob, Han
+* 
+* */
+
 package com.example.newslettera3;
 
 import androidx.appcompat.app.AppCompatActivity;

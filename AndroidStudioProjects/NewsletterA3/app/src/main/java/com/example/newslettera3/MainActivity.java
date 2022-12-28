@@ -1,6 +1,5 @@
 /*
-* s3821179 sang yeob, Han
-* 
+1. push to "develop" branch first
 * */
 
 package com.example.newslettera3;

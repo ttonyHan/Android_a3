@@ -1,5 +1,6 @@
 /*
-1. push to "develop" branch first
+1. push to "develop" branch first -> 'develop' is default branch
+
 * */
 
 package com.example.newslettera3;

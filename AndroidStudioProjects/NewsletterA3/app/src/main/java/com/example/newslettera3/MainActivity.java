@@ -1,6 +1,9 @@
 /*
 1. push to "develop" branch first -> 'develop' is default branch
+2.
 
+
+    *powered by Team Cold Brew*
 * */
 
 package com.example.newslettera3;

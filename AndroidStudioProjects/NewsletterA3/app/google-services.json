@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195732023686",
+    "project_id": "newsletters-d765a",
+    "storage_bucket": "newsletters-d765a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195732023686:android:6eff90d2fcd0955866a407",
+        "android_client_info": {
+          "package_name": "com.example.newslettera3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195732023686-2t8mrjpenicnr2i6oslig699l1a3efv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_LdHQk4t1Mo9P9pi75Jx8n5blMtNvyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195732023686-2t8mrjpenicnr2i6oslig699l1a3efv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

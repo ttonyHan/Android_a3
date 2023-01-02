@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">NewsletterA3</string>
+    <string name="login">login</string>
+    <string name="Register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+
 </resources>

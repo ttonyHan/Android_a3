@@ -43,12 +43,29 @@
             />
     </com.google.android.material.textfield.TextInputLayout>
 
-<!--    login btn-->
+    <!--Progress bar-->
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <!--    login btn-->
     <Button
         android:text="@string/btn_login"
         android:id="@+id/btn_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/registerNow"
+        android:text="@string/click_to_register"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20sp"
         />
 </LinearLayout>

@@ -4,5 +4,9 @@
     <string name="Register">Register</string>
     <string name="btn_login">Login</string>
     <string name="btn_register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">click to register</string>
+    <string name="logout">logout</string>
+
 
 </resources>

@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "195732023686",
-    "project_id": "newsletters-d765a",
-    "storage_bucket": "newsletters-d765a.appspot.com"
+    "project_number": "800697425722",
+    "project_id": "newsletter-38f06",
+    "storage_bucket": "newsletter-38f06.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:195732023686:android:6eff90d2fcd0955866a407",
+        "mobilesdk_app_id": "1:800697425722:android:41505f4ba4f1d61b907a03",
         "android_client_info": {
           "package_name": "com.example.newslettera3"
         }
       },
       "oauth_client": [
         {
-          "client_id": "195732023686-2t8mrjpenicnr2i6oslig699l1a3efv3.apps.googleusercontent.com",
+          "client_id": "800697425722-6t1gv22o07r9ioq96atiilh4p3pfa9t3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDq_LdHQk4t1Mo9P9pi75Jx8n5blMtNvyg"
+          "current_key": "AIzaSyBTgICBUrFWRqahUuLqCGsXlS2lOwrdvMg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "195732023686-2t8mrjpenicnr2i6oslig699l1a3efv3.apps.googleusercontent.com",
+              "client_id": "800697425722-6t1gv22o07r9ioq96atiilh4p3pfa9t3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
